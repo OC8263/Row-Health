@@ -15,7 +15,7 @@ With a newly established data team in place, Row Health is now focused on shapin
 - [Claim Performance](#claim-performance)
 - [Presentation](#presentation)
 - [Dashboard](#dashboard)
-- [Appendix](#appendix)
+
     
  
 
@@ -103,12 +103,10 @@ The campaigns are driving strong brand awareness, reflected in a **9.39% CTR** a
 	• Monitor claim lag to ensure accurate attribution between campaigns and resulting claims.
 
 # Dashboard
-
+- [Tableau](https://public.tableau.com/app/profile/christine3803/viz/RowHealthDashboard/Dashboard)
 <img width="1022" height="764" alt="image" src="https://github.com/user-attachments/assets/5a2451b0-3eaf-4cf1-bc17-da22b7f8eca8" />
 
 # Presentation
 
-# Appendix
-- Tableau
-- Excel
+
 
