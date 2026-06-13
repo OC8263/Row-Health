@@ -43,15 +43,11 @@ The campaigns are driving strong brand awareness, reflected in a **9.39% CTR** a
 ## Marketing Performance
 
 ### Insights
-- CTR is exceptionally strong **9.39%**, well above the industry averages of 2–4% for health-related campaigns.
+- CTR is exceptionally strong at **9.39%**, well above the industry average of **2–4%**, while CPC remains notably low at **$0.07**, reflecting highly efficient and well-targeted campaign spend.
   
-- CPC is extremely low **$0.07**, reflecting efficient spend and strong ad relevance.
+- Top-performing campaigns — **Health For All (36.1% CTR), Benefit Updates (22.2%)**, and **Summer Wellness Tips (17.0%)**, consistently outperform across impressions, CTR, and CPC.
 
-- Top Performance campaigns, **Health For All (36.1%), Benefit Updates(22.2%), and Summer Wellness Tips (17.0%)**, consistently deliver high impressions, high CTR and low CPC.
-
-- Hashtag campaigns underperform across all metrics; **InsureYour Health (7.8% CTR), #Healthy Living (9.7%)**, and **#Coverage Matters (10.4%)** all fall below average.
-- **Tailored Health Plans** holds the highest impressions at **1,360,060**, yet only achieves a **6.6% CTR**, suggesting poor ad-audience fit.
-- **Golden Years Security** has the highest CPC at **$0.48**, significantly above all other.
+- Hashtag campaigns significantly underperform across all metrics, and **Golden Years Security** stands out with the highest CPC at **$0.48**, far above the campaign average.
     
 ### Recommendations
 
@@ -63,16 +59,11 @@ The campaigns are driving strong brand awareness, reflected in a **9.39% CTR** a
 
 ### Insights
 
-- The **0.18% signup rate** represents the most significant drop-off in the funnel, despite strong click engagement.
+- The **0.18% signup rate** represents the most critical funnel gap, despite strong click engagement indicating significant friction between ad exposure and conversion.
   
-- **Cost per Signup overall ($3.70**),	but varies widely **Golden Years Security** has the highest at **$176.73**, while #Coverage Matters has the lowest at **$0.65**.
+- **#Healthy Living (3,727), Health For All (3,545)**, and **#Coverage Matters (3,536)** are the top three signup-driving campaigns, together accounting for the majority of 16,289 total signups.
 
-- Top signup-driving campaigns are #Healthy Living (3,727), **Health For All (3,545), and #Coverage Matters (3,536)** together accounting for the majority of the **16,289 total signups**.
-  
-- Low-volume campaigns like **Golden Years Security (23 signups)** and **Benefit Updates (45 signups)** show significantly higher cost per signup, indicating poor conversion efficiency.
-
-- Signup count has grown steadily from 2019 to 2023, though the shifting signup mix suggests certain campaigns are becoming more effective at driving conversions than others.
-
+- Cost per Signup varies widely across campaigns from as low as **$0.65** (#Coverage Matters) to as high as **$176.73** (Golden Years Security), highlighting major differences in conversion efficiency.
     
 ### Recommendations
 	• Improve the landing page experience; the low signup rate likely stems from too many form fields, slow page load times, poor mobile optimization, or a weak value proposition.
@@ -85,15 +76,9 @@ The campaigns are driving strong brand awareness, reflected in a **9.39% CTR** a
 
 - Total claims across all campaigns amount to **$13,335,785** from **49,866 claims**, with a grand average claim amount of **$267**.
   
-- **Health For All** generates the highest claim count at **12,232**, followed by **#Coverage Matters (11,016)** and **#Healthy Living (10,707)**.
+- **Health For All, #Coverage Matters**, and **#Healthy Living** generate the highest claim volumes, while **Compare Health Coverage** has the highest average claim at **$410**, suggesting it attracts higher-cost members
   
-- **Compare Health Coverage** has the highest average claim amount at **$410**, suggesting it attracts higher-cost or more complex care members.
-  
-- **Tailored Health Plans** has the lowest average claim at **$209**, indicating a lower-risk member profile.
-  
-- Total claim amounts have risen from 2019 to 2023, reflecting higher enrollment, increased utilization, or more expensive care categories.
-  
-- The claims mix has shifted over time, indicating evolving member behavior across campaign types.
+- Total claim amounts have risen steadily from 2019 to 2023, with a shifting claims mix indicating evolving member behavior across campaign types.
 
 
 
