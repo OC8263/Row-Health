@@ -1,4 +1,6 @@
+
 # Row Health Campaign Category Analysis
+
 # Company Background
 
 Row Health is a U.S.-based medical insurance company founded in 2016, now serving thousands of customers nationwide. In 2019, the company expanded its marketing efforts by launching a series of campaign categories covering key topics such as wellness tips, plan affordability, and preventative care. Customers can choose from four tiered plans (bronze, silver, gold, and platinum), each designed with varying premium levels and claim coverage rates to suit different needs.
@@ -91,7 +93,12 @@ The campaigns are driving strong brand awareness, reflected in a **9.39% CTR** a
 - [Tableau](https://public.tableau.com/app/profile/christine3803/viz/RowHealthDashboard/Dashboard)
 <img width="1022" height="764" alt="image" src="https://github.com/user-attachments/assets/5a2451b0-3eaf-4cf1-bc17-da22b7f8eca8" />
 
-# Presentation
+# Presentation Sample
 
+The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](https://docs.google.com/presentation/d/1CTSNAyyYYmu_3Yx7-he6hAZH9j2C1vIX/edit?slide=id.p1#slide=id.p1). Some extracts are presented below for easy viewing
+
+<img width="812" height="image" alt="image" src="https://github.com/user-attachments/assets/0dfcdf72-e9ca-45ab-97f2-99cc792b739b" />
+<img width="812" height="image" alt="image" src="https://github.com/user-attachments/assets/08100a9f-e4e9-4a53-a5df-040757d60b2b" />
+<img width="812" height="image" alt="image" src="https://github.com/user-attachments/assets/bbdc7980-a567-4c14-a3e6-c77773edb5e7" />
 
 
