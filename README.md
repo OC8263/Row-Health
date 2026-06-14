@@ -90,7 +90,7 @@ The campaigns are driving strong brand awareness, reflected in a **9.39% CTR** a
 	• Monitor claim lag to ensure accurate attribution between campaigns and resulting claims.
 
 # Dashboard
-- [Tableau](https://public.tableau.com/app/profile/christine3803/viz/RowHealthDashboard/Dashboard)
+The dashboard can be found in [Tableau Public](https://public.tableau.com/app/profile/christine3803/viz/RowHealthDashboard/Dashboard). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
 <img width="1022" height="764" alt="image" src="https://github.com/user-attachments/assets/5a2451b0-3eaf-4cf1-bc17-da22b7f8eca8" />
 
 # Presentation Sample
